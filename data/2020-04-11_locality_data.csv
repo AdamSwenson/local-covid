@@ -1,0 +1,327 @@
+,location,cases,Rate**,date
+35,City of Bell,37,101.84,4/11/20 9:33
+36,City of Bell Gardens,26,60.37,4/11/20 9:33
+37,City of Bellflower,50,64.32,4/11/20 9:33
+38,City of Beverly Hills,73,211.47,4/11/20 9:33
+39,City of Bradbury,0,0,4/11/20 9:33
+40,City of Burbank,100,93.3,4/11/20 9:33
+41,City of Calabasas,23,94.56,4/11/20 9:33
+42,City of Carson,118,125.74,4/11/20 9:33
+43,City of Cerritos,32,63.91,4/11/20 9:33
+44,City of Claremont,10,27.41,4/11/20 9:33
+45,City of Commerce,,--,4/11/20 9:33
+46,City of Compton,61,61.06,4/11/20 9:33
+47,City of Covina,38,77.5,4/11/20 9:33
+48,City of Cudahy,21,86.25,4/11/20 9:33
+49,City of Culver City,31,77.76,4/11/20 9:33
+50,City of Diamond Bar,19,33.03,4/11/20 9:33
+51,City of Downey,100,87.52,4/11/20 9:33
+52,City of Duarte,10,45.42,4/11/20 9:33
+53,City of El Monte,28,23.88,4/11/20 9:33
+54,City of El Segundo,11,65.53,4/11/20 9:33
+55,City of Gardena,63,102.76,4/11/20 9:33
+56,City of Glendale,233,112.84,4/11/20 9:33
+57,City of Glendora,21,39.8,4/11/20 9:33
+58,City of Hawaiian Gardens,,--,4/11/20 9:33
+59,City of Hawthorne,68,76.59,4/11/20 9:33
+60,City of Hermosa Beach,17,86.43,4/11/20 9:33
+61,City of Hidden Hills,0,0,4/11/20 9:33
+62,City of Huntington Park,41,68.93,4/11/20 9:33
+63,City of Industry,,--,4/11/20 9:33
+64,City of Inglewood,112,98.61,4/11/20 9:33
+65,City of Irwindale,0,0,4/11/20 9:33
+66,City of La Canada Flintridge,20,96.65,4/11/20 9:33
+67,City of La Habra Heights,,--,4/11/20 9:33
+68,City of La Mirada,21,42.34,4/11/20 9:33
+69,City of La Puente,19,46.69,4/11/20 9:33
+70,City of La Verne,8,24.04,4/11/20 9:33
+71,City of Lakewood,41,51.02,4/11/20 9:33
+72,City of Lancaster,83,51.37,4/11/20 9:33
+73,City of Lawndale,25,74.37,4/11/20 9:33
+74,City of Lomita,19,91.66,4/11/20 9:33
+75,City of Lynwood,68,94.38,4/11/20 9:33
+76,City of Malibu,15,115.73,4/11/20 9:33
+77,City of Manhattan Beach,54,150,4/11/20 9:33
+78,City of Maywood,26,92.69,4/11/20 9:33
+79,City of Monrovia,13,33.51,4/11/20 9:33
+80,City of Montebello,49,76.12,4/11/20 9:33
+81,City of Monterey Park,30,48.18,4/11/20 9:33
+82,City of Norwalk,74,68.76,4/11/20 9:33
+83,City of Palmdale,89,55.99,4/11/20 9:33
+84,City of Palos Verdes Estates,32,236.65,4/11/20 9:33
+85,City of Paramount,38,67.83,4/11/20 9:33
+86,City of Pico Rivera,57,88.67,4/11/20 9:33
+87,City of Pomona,47,30.14,4/11/20 9:33
+88,City of Rancho Palos Verdes,38,88.9,4/11/20 9:33
+89,City of Redondo Beach,83,120.82,4/11/20 9:33
+90,City of Rolling Hills,,--,4/11/20 9:33
+91,City of Rolling Hills Estates,10,123.26,4/11/20 9:33
+92,City of Rosemead,15,27.1,4/11/20 9:33
+93,City of San Dimas,18,52.15,4/11/20 9:33
+94,City of San Fernando,20,81.26,4/11/20 9:33
+95,City of San Gabriel,13,31.74,4/11/20 9:33
+96,City of San Marino,6,45.19,4/11/20 9:33
+97,City of Santa Clarita,135,61.25,4/11/20 9:33
+98,City of Santa Fe Springs,6,32.67,4/11/20 9:33
+99,City of Santa Monica,90,97.35,4/11/20 9:33
+100,City of Sierra Madre,,--,4/11/20 9:33
+101,City of Signal Hill,,--,4/11/20 9:33
+102,City of South El Monte,,--,4/11/20 9:33
+103,City of South Gate,93,94.75,4/11/20 9:33
+104,City of South Pasadena,15,57.57,4/11/20 9:33
+105,City of Temple City,12,32.92,4/11/20 9:33
+106,City of Torrance,140,93.79,4/11/20 9:33
+107,City of Vernon,0,0,4/11/20 9:33
+108,City of Walnut,13,42.58,4/11/20 9:33
+109,City of West Covina,35,32.34,4/11/20 9:33
+110,City of West Hollywood,102,276.04,4/11/20 9:33
+111,City of Westlake Village,6,71.77,4/11/20 9:33
+112,City of Whittier,50,57.19,4/11/20 9:33
+113,Los Angeles,3990,98.65,4/11/20 9:33
+114,Los Angeles - Adams-Normandie,15,182.88,4/11/20 9:33
+115,Los Angeles - Alsace,6,48.21,4/11/20 9:33
+116,Los Angeles - Angelino Heights,,--,4/11/20 9:33
+117,Los Angeles - Arleta,24,69.83,4/11/20 9:33
+118,Los Angeles - Atwater Village,8,54.55,4/11/20 9:33
+119,Los Angeles - Baldwin Hills,30,96.39,4/11/20 9:33
+120,Los Angeles - Bel Air,21,249.14,4/11/20 9:33
+121,Los Angeles - Beverly Crest,26,207.58,4/11/20 9:33
+122,Los Angeles - Beverlywood,20,151.83,4/11/20 9:33
+123,Los Angeles - Boyle Heights,55,63.3,4/11/20 9:33
+124,Los Angeles - Brentwood,53,171.22,4/11/20 9:33
+125,Los Angeles - Brookside,0,0,4/11/20 9:33
+126,Los Angeles - Cadillac-Corning,5,70.21,4/11/20 9:33
+127,Los Angeles - Canoga Park,72,110.28,4/11/20 9:33
+128,Los Angeles - Carthay,29,201.91,4/11/20 9:33
+129,Los Angeles - Central,39,100.02,4/11/20 9:33
+130,Los Angeles - Century City,27,211.07,4/11/20 9:33
+131,Los Angeles - Century Palms/Cove,28,82.92,4/11/20 9:33
+132,Los Angeles - Chatsworth,36,97.14,4/11/20 9:33
+133,Los Angeles - Cheviot Hills,11,119.94,4/11/20 9:33
+134,Los Angeles - Chinatown,,--,4/11/20 9:33
+135,Los Angeles - Cloverdale/Cochran,11,75.59,4/11/20 9:33
+136,Los Angeles - Country Club Park,22,145.19,4/11/20 9:33
+137,Los Angeles - Crenshaw District,16,115.7,4/11/20 9:33
+138,Los Angeles - Crestview,40,351.86,4/11/20 9:33
+139,Los Angeles - Del Rey,32,106.89,4/11/20 9:33
+140,Los Angeles - Downtown,26,94.52,4/11/20 9:33
+141,Los Angeles - Eagle Rock,34,85.88,4/11/20 9:33
+142,Los Angeles - East Hollywood,42,143.41,4/11/20 9:33
+143,Los Angeles - Echo Park,10,70.15,4/11/20 9:33
+144,Los Angeles - El Sereno,35,83.72,4/11/20 9:33
+145,Los Angeles - Elysian Park,5,87.54,4/11/20 9:33
+146,Los Angeles - Elysian Valley,8,78.65,4/11/20 9:33
+147,Los Angeles - Encino,49,108.47,4/11/20 9:33
+148,Los Angeles - Exposition,0,0,4/11/20 9:33
+149,Los Angeles - Exposition Park,46,102.41,4/11/20 9:33
+150,Los Angeles - Faircrest Heights,,--,4/11/20 9:33
+151,Los Angeles - Figueroa Park Square,7,80.27,4/11/20 9:33
+152,Los Angeles - Florence-Firestone,45,94.85,4/11/20 9:33
+153,Los Angeles - Glassell Park,54,170.86,4/11/20 9:33
+154,Los Angeles - Gramercy Place,10,92.9,4/11/20 9:33
+155,Los Angeles - Granada Hills,44,75.61,4/11/20 9:33
+156,Los Angeles - Green Meadows,14,65.1,4/11/20 9:33
+157,Los Angeles - Hancock Park,46,269.97,4/11/20 9:33
+158,Los Angeles - Harbor City,23,79.12,4/11/20 9:33
+159,Los Angeles - Harbor Gateway,31,71.1,4/11/20 9:33
+160,Los Angeles - Harbor Pines,0,0,4/11/20 9:33
+161,Los Angeles - Harvard Heights,18,99.81,4/11/20 9:33
+162,Los Angeles - Harvard Park,25,65.9,4/11/20 9:33
+163,Los Angeles - Highland Park,31,64.06,4/11/20 9:33
+164,Los Angeles - Historic Filipinotown,18,129.78,4/11/20 9:33
+165,Los Angeles - Hollywood,114,167.02,4/11/20 9:33
+166,Los Angeles - Hollywood Hills,46,156.28,4/11/20 9:33
+167,Los Angeles - Hyde Park,15,52.56,4/11/20 9:33
+168,Los Angeles - Jefferson Park,,--,4/11/20 9:33
+169,Los Angeles - Koreatown,50,96.72,4/11/20 9:33
+170,Los Angeles - Lafayette Square,7,153.54,4/11/20 9:33
+171,Los Angeles - Lake Balboa,32,75.82,4/11/20 9:33
+172,Los Angeles - Lakeview Terrace,16,121.83,4/11/20 9:33
+173,Los Angeles - Leimert Park,24,157.53,4/11/20 9:33
+174,Los Angeles - Lincoln Heights,16,49.08,4/11/20 9:33
+175,Los Angeles - Little Armenia,34,423.68,4/11/20 9:33
+176,Los Angeles - Little Bangladesh,30,105.85,4/11/20 9:33
+177,Los Angeles - Little Tokyo,,--,4/11/20 9:33
+178,Los Angeles - Longwood,,--,4/11/20 9:33
+179,Los Angeles - Los Feliz,21,97.19,4/11/20 9:33
+180,Los Angeles - Manchester Square,,--,4/11/20 9:33
+181,Los Angeles - Mandeville Canyon,,--,4/11/20 9:33
+182,Los Angeles - Mar Vista,34,80.05,4/11/20 9:33
+183,Los Angeles - Marina Peninsula,8,183.49,4/11/20 9:33
+184,Los Angeles - Melrose,194,249.69,4/11/20 9:33
+185,Los Angeles - Mid-city,24,159.68,4/11/20 9:33
+186,Los Angeles - Miracle Mile,19,105.64,4/11/20 9:33
+187,Los Angeles - Mission Hills,20,82.9,4/11/20 9:33
+188,Los Angeles - Mt. Washington,13,53.84,4/11/20 9:33
+189,Los Angeles - North Hills,41,66.59,4/11/20 9:33
+190,Los Angeles - North Hollywood,119,78.59,4/11/20 9:33
+191,Los Angeles - Northridge,41,58.74,4/11/20 9:33
+192,Los Angeles - Pacific Palisades,31,145.6,4/11/20 9:33
+193,Los Angeles - Pacoima,52,67.55,4/11/20 9:33
+194,Los Angeles - Palisades Highlands,,--,4/11/20 9:33
+195,Los Angeles - Palms,67,152.7,4/11/20 9:33
+196,Los Angeles - Panorama City,60,79.73,4/11/20 9:33
+197,Los Angeles - Park La Brea,9,66.27,4/11/20 9:33
+198,Los Angeles - Pico-Union,47,112.33,4/11/20 9:33
+199,Los Angeles - Playa Del Rey,,--,4/11/20 9:33
+200,Los Angeles - Playa Vista,10,91.35,4/11/20 9:33
+201,Los Angeles - Porter Ranch,28,78.68,4/11/20 9:33
+202,Los Angeles - Rancho Park,8,121.95,4/11/20 9:33
+203,Los Angeles - Regent Square,,--,4/11/20 9:33
+204,Los Angeles - Reseda,70,91.36,4/11/20 9:33
+205,Los Angeles - Reseda Ranch,9,194.13,4/11/20 9:33
+206,Los Angeles - Reynier Village,5,118.26,4/11/20 9:33
+207,Los Angeles - San Pedro,43,55.1,4/11/20 9:33
+208,Los Angeles - Shadow Hills,7,157.59,4/11/20 9:33
+209,Los Angeles - Sherman Oaks,76,87.1,4/11/20 9:33
+210,Los Angeles - Silverlake,74,167.87,4/11/20 9:33
+211,Los Angeles - South Carthay,20,188.77,4/11/20 9:33
+212,Los Angeles - South Park,39,102.74,4/11/20 9:33
+213,Los Angeles - St Elmo Village,,--,4/11/20 9:33
+214,Los Angeles - Studio City,22,98.04,4/11/20 9:33
+215,Los Angeles - Sun Valley,29,55.26,4/11/20 9:33
+216,Los Angeles - Sunland,29,142.1,4/11/20 9:33
+217,Los Angeles - Sycamore Square,0,0,4/11/20 9:33
+218,Los Angeles - Sylmar,97,117.72,4/11/20 9:33
+219,Los Angeles - Tarzana,44,142.51,4/11/20 9:33
+220,Los Angeles - Temple-Beaudry,53,134.24,4/11/20 9:33
+221,Los Angeles - Thai Town,10,101.95,4/11/20 9:33
+222,Los Angeles - Toluca Lake,7,80.42,4/11/20 9:33
+223,Los Angeles - Toluca Terrace,0,0,4/11/20 9:33
+224,Los Angeles - Toluca Woods,,--,4/11/20 9:33
+225,Los Angeles - Tujunga,15,53.94,4/11/20 9:33
+226,Los Angeles - University Hills,0,0,4/11/20 9:33
+227,Los Angeles - University Park,25,91.05,4/11/20 9:33
+228,Los Angeles - Valley Glen,32,106.61,4/11/20 9:33
+229,Los Angeles - Valley Village,34,137.54,4/11/20 9:33
+230,Los Angeles - Van Nuys,77,82.62,4/11/20 9:33
+231,Los Angeles - Venice,35,103.29,4/11/20 9:33
+232,Los Angeles - Vermont Knolls,15,87.21,4/11/20 9:33
+233,Los Angeles - Vermont Square,15,195.9,4/11/20 9:33
+234,Los Angeles - Vermont Vista,23,55.84,4/11/20 9:33
+235,Los Angeles - Vernon Central,39,75,4/11/20 9:33
+236,Los Angeles - Victoria Park,17,202.41,4/11/20 9:33
+237,Los Angeles - View Heights,,--,4/11/20 9:33
+238,Los Angeles - Watts,27,63.27,4/11/20 9:33
+239,Los Angeles - Wellington Square,,--,4/11/20 9:33
+240,Los Angeles - West Adams,41,148.39,4/11/20 9:33
+241,Los Angeles - West Hills,23,56.73,4/11/20 9:33
+242,Los Angeles - West Los Angeles,34,90.34,4/11/20 9:33
+243,Los Angeles - West Vernon,58,108.12,4/11/20 9:33
+244,Los Angeles - Westchester,32,62.01,4/11/20 9:33
+245,Los Angeles - Westlake,55,92.66,4/11/20 9:33
+246,Los Angeles - Westwood,34,62.84,4/11/20 9:33
+247,Los Angeles - Wholesale District,17,47.05,4/11/20 9:33
+248,Los Angeles - Wilmington,32,56.65,4/11/20 9:33
+249,Los Angeles - Wilshire Center,44,87.7,4/11/20 9:33
+250,Los Angeles - Winnetka,44,84.97,4/11/20 9:33
+251,Los Angeles - Woodland Hills,67,98.45,4/11/20 9:33
+252,Unincorporated - Acton,5,62.73,4/11/20 9:33
+253,Unincorporated - Agua Dulce,,--,4/11/20 9:33
+254,Unincorporated - Altadena,37,84.82,4/11/20 9:33
+255,Unincorporated - Anaverde,0,0,4/11/20 9:33
+256,Unincorporated - Angeles National Forest,0,0,4/11/20 9:33
+257,Unincorporated - Arcadia,,--,4/11/20 9:33
+258,Unincorporated - Athens-Westmont,35,82.47,4/11/20 9:33
+259,Unincorporated - Athens Village,6,122.52,4/11/20 9:33
+260,Unincorporated - Avocado Heights,,--,4/11/20 9:33
+261,Unincorporated - Azusa,,--,4/11/20 9:33
+262,Unincorporated - Bassett,,--,4/11/20 9:33
+263,Unincorporated - Bouquet Canyon,,--,4/11/20 9:33
+264,Unincorporated - Bradbury,0,0,4/11/20 9:33
+265,Unincorporated - Canyon Country,14,181.16,4/11/20 9:33
+266,Unincorporated - Castaic,8,29.42,4/11/20 9:33
+267,Unincorporated - Cerritos,0,0,4/11/20 9:33
+268,Unincorporated - Claremont,0,0,4/11/20 9:33
+269,Unincorporated - Covina,12,71.35,4/11/20 9:33
+270,Unincorporated - Covina (Charter Oak),7,53.26,4/11/20 9:33
+271,Unincorporated - Del Aire,5,113.82,4/11/20 9:33
+272,Unincorporated - Del Rey,0,0,4/11/20 9:33
+273,Unincorporated - Del Sur,0,0,4/11/20 9:33
+274,Unincorporated - Desert View Highlands,,--,4/11/20 9:33
+275,Unincorporated - Duarte,0,0,4/11/20 9:33
+276,Unincorporated - East Covina,0,0,4/11/20 9:33
+277,Unincorporated - East La Mirada,,--,4/11/20 9:33
+278,Unincorporated - East Lancaster,0,0,4/11/20 9:33
+279,Unincorporated - East Los Angeles,86,68.65,4/11/20 9:33
+280,Unincorporated - East Pasadena,0,0,4/11/20 9:33
+281,Unincorporated - East Rancho Dominguez,10,65.33,4/11/20 9:33
+282,Unincorporated - East Whittier,,--,4/11/20 9:33
+283,Unincorporated - El Camino Village,,--,4/11/20 9:33
+284,Unincorporated - El Monte,0,0,4/11/20 9:33
+285,Unincorporated - Elizabeth Lake,0,0,4/11/20 9:33
+286,Unincorporated - Florence-Firestone,57,88.09,4/11/20 9:33
+287,Unincorporated - Glendora,0,0,4/11/20 9:33
+288,Unincorporated - Hacienda Heights,28,50.07,4/11/20 9:33
+289,Unincorporated - Hawthorne,,--,4/11/20 9:33
+290,Unincorporated - Hi Vista,0,0,4/11/20 9:33
+291,Unincorporated - Kagel/Lopez Canyons,0,0,4/11/20 9:33
+292,Unincorporated - La Crescenta-Montrose,10,50.5,4/11/20 9:33
+293,Unincorporated - La Habra Heights,0,0,4/11/20 9:33
+294,Unincorporated - La Rambla,,--,4/11/20 9:33
+295,Unincorporated - La Verne,,--,4/11/20 9:33
+296,Unincorporated - Ladera Heights,13,183.85,4/11/20 9:33
+297,Unincorporated - Lake Hughes,0,0,4/11/20 9:33
+298,Unincorporated - Lake Los Angeles,,--,4/11/20 9:33
+299,Unincorporated - Lake Manor,,--,4/11/20 9:33
+300,Unincorporated - Lakewood,0,0,4/11/20 9:33
+301,Unincorporated - Lennox,18,79.85,4/11/20 9:33
+302,Unincorporated - Leona Valley,0,0,4/11/20 9:33
+303,Unincorporated - Littlerock,0,0,4/11/20 9:33
+304,Unincorporated - Littlerock/Juniper Hills,,--,4/11/20 9:33
+305,Unincorporated - Littlerock/Pearblossom,,--,4/11/20 9:33
+306,Unincorporated - Llano,0,0,4/11/20 9:33
+307,Unincorporated - Marina del Rey,6,63.76,4/11/20 9:33
+308,Unincorporated - Monrovia,5,128.83,4/11/20 9:33
+309,Unincorporated - Newhall,0,0,4/11/20 9:33
+310,Unincorporated - North Lancaster,0,0,4/11/20 9:33
+311,Unincorporated - North Whittier,,--,4/11/20 9:33
+312,Unincorporated - Northeast San Gabriel,6,24.96,4/11/20 9:33
+313,Unincorporated - Palmdale,0,0,4/11/20 9:33
+314,Unincorporated - Palos Verdes Peninsula,0,0,4/11/20 9:33
+315,Unincorporated - Pearblossom/Llano,0,0,4/11/20 9:33
+316,Unincorporated - Pellissier Village,0,0,4/11/20 9:33
+317,Unincorporated - Placerita Canyon,0,0,4/11/20 9:33
+318,Unincorporated - Pomona,0,0,4/11/20 9:33
+319,Unincorporated - Quartz Hill,5,38.74,4/11/20 9:33
+320,Unincorporated - Rancho Dominguez,5,187.9,4/11/20 9:33
+321,Unincorporated - Roosevelt,0,0,4/11/20 9:33
+322,Unincorporated - Rosewood,,--,4/11/20 9:33
+323,Unincorporated - Rosewood/East Gardena,0,0,4/11/20 9:33
+324,Unincorporated - Rosewood/West Rancho Dominguez,,--,4/11/20 9:33
+325,Unincorporated - Rowland Heights,15,29.4,4/11/20 9:33
+326,Unincorporated - San Francisquito Canyon/Bouquet Canyon,0,0,4/11/20 9:33
+327,Unincorporated - San Jose Hills,,--,4/11/20 9:33
+328,Unincorporated - San Pasqual,0,0,4/11/20 9:33
+329,Unincorporated - Sand Canyon,0,0,4/11/20 9:33
+330,Unincorporated - Santa Catalina Island,,--,4/11/20 9:33
+331,Unincorporated - Santa Monica Mountains,6,32.22,4/11/20 9:33
+332,Unincorporated - Saugus,,--,4/11/20 9:33
+333,Unincorporated - Saugus/Canyon Country,0,0,4/11/20 9:33
+334,Unincorporated - South Antelope Valley,0,0,4/11/20 9:33
+335,Unincorporated - South El Monte,0,0,4/11/20 9:33
+336,Unincorporated - South San Gabriel,7,79.11,4/11/20 9:33
+337,Unincorporated - South Whittier,29,48.97,4/11/20 9:33
+338,Unincorporated - Southeast Antelope Valley,0,0,4/11/20 9:33
+339,Unincorporated - Stevenson Ranch,11,52.47,4/11/20 9:33
+340,Unincorporated - Sun Village,,--,4/11/20 9:33
+341,Unincorporated - Sunrise Village,,--,4/11/20 9:33
+342,Unincorporated - Twin Lakes/Oat Mountain,,--,4/11/20 9:33
+343,Unincorporated - Val Verde,0,0,4/11/20 9:33
+344,Unincorporated - Valencia,,--,4/11/20 9:33
+345,Unincorporated - Valinda,8,34.23,4/11/20 9:33
+346,Unincorporated - View Park/Windsor Hills,14,120.33,4/11/20 9:33
+347,Unincorporated - Walnut Park,18,111.5,4/11/20 9:33
+348,Unincorporated - West Antelope Valley,,--,4/11/20 9:33
+349,Unincorporated - West Carson,29,131.3,4/11/20 9:33
+350,Unincorporated - West LA,,--,4/11/20 9:33
+351,Unincorporated - West Puente Valley,6,61.01,4/11/20 9:33
+352,Unincorporated - West Rancho Dominguez,,--,4/11/20 9:33
+353,Unincorporated - West Whittier/Los Nietos,11,40.85,4/11/20 9:33
+354,Unincorporated - Westfield/Academy Hills,0,0,4/11/20 9:33
+355,Unincorporated - Westhills,0,0,4/11/20 9:33
+356,Unincorporated - White Fence Farms,0,0,4/11/20 9:33
+357,Unincorporated - Whittier,,--,4/11/20 9:33
+358,Unincorporated - Willowbrook,21,60.15,4/11/20 9:33
+359,Unincorporated - Wiseburn,,--,4/11/20 9:33
+360,#NAME?,620,,4/11/20 9:33

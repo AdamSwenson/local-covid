@@ -1,0 +1,27 @@
+,location,cases,Rate**,date
+0,Laboratory Confirmed Cases (LCC),6360.0,,2020-04-06 16:34:01.475868
+1,- Los Angeles County (excl. LB and Pas),6089.0,,2020-04-06 16:34:01.475868
+2,- Long Beach,213.0,,2020-04-06 16:34:01.475868
+3,- Pasadena,58.0,,2020-04-06 16:34:01.475868
+5,Deaths,147.0,,2020-04-06 16:34:01.475868
+6,- Los Angeles County (excl. LB and Pas),142.0,,2020-04-06 16:34:01.475868
+7,- Long Beach,3.0,,2020-04-06 16:34:01.475868
+8,- Pasadena,2.0,,2020-04-06 16:34:01.475868
+11,Age Group (Los Angeles County Cases Only-excl LB and Pas),,,2020-04-06 16:34:01.475868
+12,0 to 17,59.0,,2020-04-06 16:34:01.475868
+13,18 to 40,2072.0,,2020-04-06 16:34:01.475868
+14,41 to 65,2650.0,,2020-04-06 16:34:01.475868
+15,Over 65,1278.0,,2020-04-06 16:34:01.475868
+16,Under Investigation,30.0,,2020-04-06 16:34:01.475868
+17,Gender (Los Angeles County Cases Only-excl LB and Pas),,,2020-04-06 16:34:01.475868
+18,Male,3082.0,,2020-04-06 16:34:01.475868
+19,Female,2763.0,,2020-04-06 16:34:01.475868
+20,Under Investigation,244.0,,2020-04-06 16:34:01.475868
+23,Hospitalization LAC cases only (not Long Beach and Pasadena),,,2020-04-06 16:34:01.475868
+24,Hospitalized (Ever),1366.0,,2020-04-06 16:34:01.475868
+27,CITY/COMMUNITY,,,2020-04-06 16:34:01.475868
+28,City of Agoura Hills,18.0,85.03,2020-04-06 16:34:01.475868
+29,City of Alhambra,22.0,25.37,2020-04-06 16:34:01.475868
+30,City of Arcadia,16.0,28.07,2020-04-06 16:34:01.475868
+31,City of Artesia,,--,2020-04-06 16:34:01.475868
+32,City of Avalon,0.0,0,2020-04-06 16:34:01.475868

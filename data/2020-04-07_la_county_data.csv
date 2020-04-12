@@ -1,0 +1,27 @@
+,location,cases,Rate**,date
+0,Laboratory Confirmed Cases (LCC),6910,,4/7/20 11:29
+1,- Los Angeles County (excl. LB and Pas),6608,,4/7/20 11:29
+2,#NAME?,230,,4/7/20 11:29
+3,#NAME?,72,,4/7/20 11:29
+5,Deaths,169,,4/7/20 11:29
+6,- Los Angeles County (excl. LB and Pas),164,,4/7/20 11:29
+7,#NAME?,3,,4/7/20 11:29
+8,#NAME?,2,,4/7/20 11:29
+11,Age Group (Los Angeles County Cases Only-excl LB and Pas),,,4/7/20 11:29
+12,0 to 17,73,,4/7/20 11:29
+13,18 to 40,2246,,4/7/20 11:29
+14,41 to 65,2892,,4/7/20 11:29
+15,Over 65,1364,,4/7/20 11:29
+16,Under Investigation,33,,4/7/20 11:29
+17,Gender (Los Angeles County Cases Only-excl LB and Pas),,,4/7/20 11:29
+18,Male,3313,,4/7/20 11:29
+19,Female,2998,,4/7/20 11:29
+20,Under Investigation,297,,4/7/20 11:29
+23,Hospitalization LAC cases only (not Long Beach and Pasadena),,,4/7/20 11:29
+24,Hospitalized (Ever),1510,,4/7/20 11:29
+27,CITY/COMMUNITY,,,4/7/20 11:29
+28,City of Agoura Hills,19,89.76,4/7/20 11:29
+29,City of Alhambra,24,27.68,4/7/20 11:29
+30,City of Arcadia,17,29.83,4/7/20 11:29
+31,City of Artesia,,--,4/7/20 11:29
+32,City of Avalon,0,0,4/7/20 11:29
