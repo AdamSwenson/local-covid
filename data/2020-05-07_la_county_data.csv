@@ -1,0 +1,47 @@
+,location,cases,Rate**,date
+0,Laboratory Confirmed Cases (LCC),29427.0,,2020-05-07 19:33:11.730194
+1,- Los Angeles County (excl. LB and Pas),28135.0,,2020-05-07 19:33:11.730194
+2,- Long Beach,791.0,,2020-05-07 19:33:11.730194
+3,- Pasadena,501.0,,2020-05-07 19:33:11.730194
+5,Deaths,1418.0,,2020-05-07 19:33:11.730194
+6,- Los Angeles County (excl. LB and Pas),1317.0,,2020-05-07 19:33:11.730194
+7,- Long Beach,38.0,,2020-05-07 19:33:11.730194
+8,- Pasadena,63.0,,2020-05-07 19:33:11.730194
+11,Age Group (Los Angeles County Cases Only-excl LB and Pas),,,2020-05-07 19:33:11.730194
+12,0 to 17,876.0,,2020-05-07 19:33:11.730194
+13,18 to 40,9491.0,,2020-05-07 19:33:11.730194
+14,41 to 65,11648.0,,2020-05-07 19:33:11.730194
+15,Over 65,6028.0,,2020-05-07 19:33:11.730194
+16,Under Investigation,92.0,,2020-05-07 19:33:11.730194
+17,Gender (Los Angeles County Cases Only-excl LB and Pas),,,2020-05-07 19:33:11.730194
+18,Female,13952.0,,2020-05-07 19:33:11.730194
+19,Male,13936.0,,2020-05-07 19:33:11.730194
+20,Other,7.0,,2020-05-07 19:33:11.730194
+21,Under Investigation,240.0,,2020-05-07 19:33:11.730194
+23,Race/Ethnicity (Los Angeles County Cases Only-excl LB and Pas),,,2020-05-07 19:33:11.730194
+24,American Indian/Alaska Native,16.0,,2020-05-07 19:33:11.730194
+25,Asian,1765.0,,2020-05-07 19:33:11.730194
+26,Black,1230.0,,2020-05-07 19:33:11.730194
+27,Hispanic/Latino,8504.0,,2020-05-07 19:33:11.730194
+28,Native Hawaiian/Pacific Islander,201.0,,2020-05-07 19:33:11.730194
+29,White,3484.0,,2020-05-07 19:33:11.730194
+30,Other,1245.0,,2020-05-07 19:33:11.730194
+31,Under Investigation,11690.0,,2020-05-07 19:33:11.730194
+33,Hospitalization LAC cases only (not Long Beach and Pasadena),,,2020-05-07 19:33:11.730194
+34,Hospitalized (Ever),5238.0,,2020-05-07 19:33:11.730194
+37,Deaths Race/Ethnicity (Los Angeles County Cases Only-excl LB and Pas),,,2020-05-07 19:33:11.730194
+38,American Indian/Alaska Native,1.0,,2020-05-07 19:33:11.730194
+39,Asian,242.0,,2020-05-07 19:33:11.730194
+40,Black,161.0,,2020-05-07 19:33:11.730194
+41,Hispanic/Latino,503.0,,2020-05-07 19:33:11.730194
+42,Native Hawaiian/Pacific Islander,14.0,,2020-05-07 19:33:11.730194
+43,White,370.0,,2020-05-07 19:33:11.730194
+44,Other,18.0,,2020-05-07 19:33:11.730194
+45,Under Investigation,8.0,,2020-05-07 19:33:11.730194
+47,CITY/COMMUNITY,,,2020-05-07 19:33:11.730194
+48,City of Agoura Hills,31.0,148.45,2020-05-07 19:33:11.730194
+49,City of Alhambra,106.0,122.23,2020-05-07 19:33:11.730194
+50,City of Arcadia,50.0,86.57,2020-05-07 19:33:11.730194
+51,City of Artesia,15.0,89.31,2020-05-07 19:33:11.730194
+52,City of Avalon,0.0,0.0,2020-05-07 19:33:11.730194
+53,City of Azusa,96.0,191.85,2020-05-07 19:33:11.730194

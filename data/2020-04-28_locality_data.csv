@@ -1,0 +1,339 @@
+,location,cases,Rate**,date
+52,City of Bell Gardens,90.0,208.96,2020-04-28 14:25:46.849676
+53,City of Bellflower,114.0,146.65,2020-04-28 14:25:46.849676
+54,City of Beverly Hills,105.0,304.17,2020-04-28 14:25:46.849676
+55,City of Bradbury,1.0,93.55,2020-04-28 14:25:46.849676
+56,City of Burbank,226.0,210.86,2020-04-28 14:25:46.849676
+57,City of Calabasas,35.0,143.9,2020-04-28 14:25:46.849676
+58,City of Carson,228.0,242.95,2020-04-28 14:25:46.849676
+59,City of Cerritos,49.0,97.87,2020-04-28 14:25:46.849676
+60,City of Claremont,22.0,60.3,2020-04-28 14:25:46.849676
+61,City of Commerce,11.0,84.17,2020-04-28 14:25:46.849676
+62,City of Compton,190.0,190.18,2020-04-28 14:25:46.849676
+63,City of Covina,86.0,175.4,2020-04-28 14:25:46.849676
+64,City of Cudahy,63.0,258.76,2020-04-28 14:25:46.849676
+65,City of Culver City,58.0,145.49,2020-04-28 14:25:46.849676
+66,City of Diamond Bar,34.0,59.12,2020-04-28 14:25:46.849676
+67,City of Downey,195.0,170.66,2020-04-28 14:25:46.849676
+68,City of Duarte,52.0,236.19,2020-04-28 14:25:46.849676
+69,City of El Monte,133.0,113.41,2020-04-28 14:25:46.849676
+70,City of El Segundo,27.0,160.85,2020-04-28 14:25:46.849676
+71,City of Gardena,142.0,231.61,2020-04-28 14:25:46.849676
+72,City of Glendale,502.0,243.11,2020-04-28 14:25:46.849676
+73,City of Glendora,42.0,79.6,2020-04-28 14:25:46.849676
+74,City of Hawaiian Gardens,9.0,61.32,2020-04-28 14:25:46.849676
+75,City of Hawthorne,161.0,181.33,2020-04-28 14:25:46.849676
+76,City of Hermosa Beach,23.0,116.93,2020-04-28 14:25:46.849676
+77,City of Hidden Hills,0.0,0.0,2020-04-28 14:25:46.849676
+78,City of Huntington Park,132.0,221.91,2020-04-28 14:25:46.849676
+79,City of Industry,1.0,228.83,2020-04-28 14:25:46.849676
+80,City of Inglewood,290.0,255.32,2020-04-28 14:25:46.849676
+81,City of Irwindale,2.0,137.08,2020-04-28 14:25:46.849676
+82,City of La Canada Flintridge,37.0,178.8,2020-04-28 14:25:46.849676
+83,City of La Habra Heights,2.0,36.66,2020-04-28 14:25:46.849676
+84,City of La Mirada,55.0,110.89,2020-04-28 14:25:46.849676
+85,City of La Puente,36.0,88.46,2020-04-28 14:25:46.849676
+86,City of La Verne,16.0,48.07,2020-04-28 14:25:46.849676
+87,City of Lakewood,75.0,93.33,2020-04-28 14:25:46.849676
+88,City of Lancaster,280.0,173.3,2020-04-28 14:25:46.849676
+89,City of Lawndale,53.0,157.67,2020-04-28 14:25:46.849676
+90,City of Lomita,32.0,154.37,2020-04-28 14:25:46.849676
+91,City of Lynwood,163.0,226.24,2020-04-28 14:25:46.849676
+92,City of Malibu,28.0,216.03,2020-04-28 14:25:46.849676
+93,City of Manhattan Beach,66.0,183.34,2020-04-28 14:25:46.849676
+94,City of Maywood,60.0,213.91,2020-04-28 14:25:46.849676
+95,City of Monrovia,39.0,100.52,2020-04-28 14:25:46.849676
+96,City of Montebello,119.0,184.85,2020-04-28 14:25:46.849676
+97,City of Monterey Park,65.0,104.4,2020-04-28 14:25:46.849676
+98,City of Norwalk,173.0,160.75,2020-04-28 14:25:46.849676
+99,City of Palmdale,379.0,238.41,2020-04-28 14:25:46.849676
+100,City of Palos Verdes Estates,37.0,273.63,2020-04-28 14:25:46.849676
+101,City of Paramount,118.0,210.63,2020-04-28 14:25:46.849676
+102,City of Pico Rivera,147.0,228.67,2020-04-28 14:25:46.849676
+103,City of Pomona,151.0,96.84,2020-04-28 14:25:46.849676
+104,City of Rancho Palos Verdes,56.0,131.0,2020-04-28 14:25:46.849676
+105,City of Redondo Beach,103.0,149.93,2020-04-28 14:25:46.849676
+106,City of Rolling Hills,1.0,51.55,2020-04-28 14:25:46.849676
+107,City of Rolling Hills Estates,13.0,160.24,2020-04-28 14:25:46.849676
+108,City of Rosemead,30.0,54.2,2020-04-28 14:25:46.849676
+109,City of San Dimas,27.0,78.22,2020-04-28 14:25:46.849676
+110,City of San Fernando,77.0,312.86,2020-04-28 14:25:46.849676
+111,City of San Gabriel,29.0,70.81,2020-04-28 14:25:46.849676
+112,City of San Marino,11.0,82.85,2020-04-28 14:25:46.849676
+113,City of Santa Clarita,332.0,150.62,2020-04-28 14:25:46.849676
+114,City of Santa Fe Springs,17.0,92.57,2020-04-28 14:25:46.849676
+115,City of Santa Monica,156.0,168.75,2020-04-28 14:25:46.849676
+116,City of Sierra Madre,5.0,45.5,2020-04-28 14:25:46.849676
+117,City of Signal Hill,7.0,59.34,2020-04-28 14:25:46.849676
+118,City of South El Monte,22.0,105.34,2020-04-28 14:25:46.849676
+119,City of South Gate,226.0,230.25,2020-04-28 14:25:46.849676
+120,City of South Pasadena,68.0,261.01,2020-04-28 14:25:46.849676
+121,City of Temple City,48.0,131.67,2020-04-28 14:25:46.849676
+122,City of Torrance,245.0,164.13,2020-04-28 14:25:46.849676
+123,City of Vernon,0.0,0.0,2020-04-28 14:25:46.849676
+124,City of Walnut,23.0,75.33,2020-04-28 14:25:46.849676
+125,City of West Covina,119.0,109.95,2020-04-28 14:25:46.849676
+126,City of West Hollywood,134.0,362.64,2020-04-28 14:25:46.849676
+127,City of Westlake Village,6.0,71.77,2020-04-28 14:25:46.849676
+128,City of Whittier,108.0,123.52,2020-04-28 14:25:46.849676
+129,Los Angeles,9697.0,239.75,2020-04-28 14:25:46.849676
+130,Los Angeles - Adams-Normandie,26.0,317.0,2020-04-28 14:25:46.849676
+131,Los Angeles - Alsace,26.0,208.92,2020-04-28 14:25:46.849676
+132,Los Angeles - Angeles National Forest,0.0,0.0,2020-04-28 14:25:46.849676
+133,Los Angeles - Angelino Heights,6.0,239.81,2020-04-28 14:25:46.849676
+134,Los Angeles - Arleta,91.0,264.77,2020-04-28 14:25:46.849676
+135,Los Angeles - Atwater Village,23.0,156.83,2020-04-28 14:25:46.849676
+136,Los Angeles - Baldwin Hills,57.0,183.13,2020-04-28 14:25:46.849676
+137,Los Angeles - Bel Air,29.0,344.05,2020-04-28 14:25:46.849676
+138,Los Angeles - Beverly Crest,32.0,255.49,2020-04-28 14:25:46.849676
+139,Los Angeles - Beverlywood,30.0,227.74,2020-04-28 14:25:46.849676
+140,Los Angeles - Boyle Heights,175.0,201.42,2020-04-28 14:25:46.849676
+141,Los Angeles - Brentwood,64.0,206.75,2020-04-28 14:25:46.849676
+142,Los Angeles - Brookside,0.0,0.0,2020-04-28 14:25:46.849676
+143,Los Angeles - Cadillac-Corning,17.0,238.73,2020-04-28 14:25:46.849676
+144,Los Angeles - Canoga Park,223.0,341.56,2020-04-28 14:25:46.849676
+145,Los Angeles - Carthay,65.0,452.55,2020-04-28 14:25:46.849676
+146,Los Angeles - Central,106.0,271.85,2020-04-28 14:25:46.849676
+147,Los Angeles - Century City,30.0,234.52,2020-04-28 14:25:46.849676
+148,Los Angeles - Century Palms/Cove,80.0,236.92,2020-04-28 14:25:46.849676
+149,Los Angeles - Chatsworth,75.0,202.37,2020-04-28 14:25:46.849676
+150,Los Angeles - Cheviot Hills,16.0,174.46,2020-04-28 14:25:46.849676
+151,Los Angeles - Chinatown,9.0,112.21,2020-04-28 14:25:46.849676
+152,Los Angeles - Cloverdale/Cochran,33.0,226.76,2020-04-28 14:25:46.849676
+153,Los Angeles - Country Club Park,58.0,382.76,2020-04-28 14:25:46.849676
+154,Los Angeles - Crenshaw District,44.0,318.17,2020-04-28 14:25:46.849676
+155,Los Angeles - Crestview,61.0,536.59,2020-04-28 14:25:46.849676
+156,Los Angeles - Del Rey,46.0,153.66,2020-04-28 14:25:46.849676
+157,Los Angeles - Downtown,57.0,207.22,2020-04-28 14:25:46.849676
+158,Los Angeles - Eagle Rock,82.0,207.13,2020-04-28 14:25:46.849676
+159,Los Angeles - East Hollywood,118.0,402.91,2020-04-28 14:25:46.849676
+160,Los Angeles - Echo Park,17.0,119.25,2020-04-28 14:25:46.849676
+161,Los Angeles - El Sereno,88.0,210.49,2020-04-28 14:25:46.849676
+162,Los Angeles - Elysian Park,9.0,157.56,2020-04-28 14:25:46.849676
+163,Los Angeles - Elysian Valley,19.0,186.81,2020-04-28 14:25:46.849676
+164,Los Angeles - Encino,80.0,177.1,2020-04-28 14:25:46.849676
+165,Los Angeles - Exposition,3.0,90.2,2020-04-28 14:25:46.849676
+166,Los Angeles - Exposition Park,124.0,276.06,2020-04-28 14:25:46.849676
+167,Los Angeles - Faircrest Heights,2.0,55.56,2020-04-28 14:25:46.849676
+168,Los Angeles - Figueroa Park Square,20.0,229.33,2020-04-28 14:25:46.849676
+169,Los Angeles - Florence-Firestone,122.0,257.14,2020-04-28 14:25:46.849676
+170,Los Angeles - Glassell Park,102.0,322.74,2020-04-28 14:25:46.849676
+171,Los Angeles - Gramercy Place,26.0,241.55,2020-04-28 14:25:46.849676
+172,Los Angeles - Granada Hills,108.0,185.6,2020-04-28 14:25:46.849676
+173,Los Angeles - Green Meadows,50.0,232.5,2020-04-28 14:25:46.849676
+174,Los Angeles - Hancock Park,62.0,363.87,2020-04-28 14:25:46.849676
+175,Los Angeles - Harbor City,42.0,144.48,2020-04-28 14:25:46.849676
+176,Los Angeles - Harbor Gateway,59.0,135.32,2020-04-28 14:25:46.849676
+177,Los Angeles - Harbor Pines,0.0,0.0,2020-04-28 14:25:46.849676
+178,Los Angeles - Harvard Heights,54.0,299.42,2020-04-28 14:25:46.849676
+179,Los Angeles - Harvard Park,112.0,295.24,2020-04-28 14:25:46.849676
+180,Los Angeles - Highland Park,78.0,161.19,2020-04-28 14:25:46.849676
+181,Los Angeles - Historic Filipinotown,54.0,389.33,2020-04-28 14:25:46.849676
+182,Los Angeles - Hollywood,182.0,266.65,2020-04-28 14:25:46.849676
+183,Los Angeles - Hollywood Hills,57.0,193.65,2020-04-28 14:25:46.849676
+184,Los Angeles - Hyde Park,56.0,196.21,2020-04-28 14:25:46.849676
+185,Los Angeles - Jefferson Park,18.0,222.97,2020-04-28 14:25:46.849676
+186,Los Angeles - Koreatown,119.0,230.21,2020-04-28 14:25:46.849676
+187,Los Angeles - Lafayette Square,12.0,263.22,2020-04-28 14:25:46.849676
+188,Los Angeles - Lake Balboa,76.0,180.07,2020-04-28 14:25:46.849676
+189,Los Angeles - Lakeview Terrace,49.0,373.11,2020-04-28 14:25:46.849676
+190,Los Angeles - Leimert Park,31.0,203.48,2020-04-28 14:25:46.849676
+191,Los Angeles - Lincoln Heights,66.0,202.47,2020-04-28 14:25:46.849676
+192,Los Angeles - Little Armenia,81.0,1009.35,2020-04-28 14:25:46.849676
+193,Los Angeles - Little Bangladesh,65.0,229.33,2020-04-28 14:25:46.849676
+194,Los Angeles - Little Tokyo,5.0,159.59,2020-04-28 14:25:46.849676
+195,Los Angeles - Longwood,14.0,325.28,2020-04-28 14:25:46.849676
+196,Los Angeles - Los Feliz,33.0,152.72,2020-04-28 14:25:46.849676
+197,Los Angeles - Manchester Square,13.0,152.3,2020-04-28 14:25:46.849676
+198,Los Angeles - Mandeville Canyon,1.0,32.01,2020-04-28 14:25:46.849676
+199,Los Angeles - Mar Vista,52.0,122.44,2020-04-28 14:25:46.849676
+200,Los Angeles - Marina Peninsula,9.0,206.42,2020-04-28 14:25:46.849676
+201,Los Angeles - Melrose,313.0,402.85,2020-04-28 14:25:46.849676
+202,Los Angeles - Mid-city,35.0,232.87,2020-04-28 14:25:46.849676
+203,Los Angeles - Miracle Mile,35.0,194.61,2020-04-28 14:25:46.849676
+204,Los Angeles - Mission Hills,63.0,261.15,2020-04-28 14:25:46.849676
+205,Los Angeles - Mt. Washington,35.0,144.96,2020-04-28 14:25:46.849676
+206,Los Angeles - North Hills,141.0,228.99,2020-04-28 14:25:46.849676
+207,Los Angeles - North Hollywood,314.0,207.37,2020-04-28 14:25:46.849676
+208,Los Angeles - Northridge,150.0,214.91,2020-04-28 14:25:46.849676
+209,Los Angeles - Pacific Palisades,36.0,169.09,2020-04-28 14:25:46.849676
+210,Los Angeles - Pacoima,224.0,290.99,2020-04-28 14:25:46.849676
+211,Los Angeles - Palisades Highlands,3.0,78.0,2020-04-28 14:25:46.849676
+212,Los Angeles - Palms,101.0,230.19,2020-04-28 14:25:46.849676
+213,Los Angeles - Panorama City,244.0,324.25,2020-04-28 14:25:46.849676
+214,Los Angeles - Park La Brea,11.0,81.0,2020-04-28 14:25:46.849676
+215,Los Angeles - Pico-Union,171.0,408.68,2020-04-28 14:25:46.849676
+216,Los Angeles - Playa Del Rey,1.0,31.29,2020-04-28 14:25:46.849676
+217,Los Angeles - Playa Vista,19.0,173.56,2020-04-28 14:25:46.849676
+218,Los Angeles - Porter Ranch,52.0,146.12,2020-04-28 14:25:46.849676
+219,Los Angeles - Rancho Park,11.0,167.68,2020-04-28 14:25:46.849676
+220,Los Angeles - Regent Square,2.0,71.94,2020-04-28 14:25:46.849676
+221,Los Angeles - Reseda,178.0,232.32,2020-04-28 14:25:46.849676
+222,Los Angeles - Reseda Ranch,17.0,366.7,2020-04-28 14:25:46.849676
+223,Los Angeles - Reynier Village,8.0,189.21,2020-04-28 14:25:46.849676
+224,Los Angeles - San Pedro,185.0,237.06,2020-04-28 14:25:46.849676
+225,Los Angeles - Shadow Hills,10.0,225.12,2020-04-28 14:25:46.849676
+226,Los Angeles - Sherman Oaks,119.0,136.38,2020-04-28 14:25:46.849676
+227,Los Angeles - Silverlake,107.0,242.72,2020-04-28 14:25:46.849676
+228,Los Angeles - South Carthay,24.0,226.52,2020-04-28 14:25:46.849676
+229,Los Angeles - South Park,108.0,284.5,2020-04-28 14:25:46.849676
+230,Los Angeles - St Elmo Village,13.0,283.6,2020-04-28 14:25:46.849676
+231,Los Angeles - Studio City,36.0,160.43,2020-04-28 14:25:46.849676
+232,Los Angeles - Sun Valley,107.0,203.88,2020-04-28 14:25:46.849676
+233,Los Angeles - Sunland,72.0,352.8,2020-04-28 14:25:46.849676
+234,Los Angeles - Sycamore Square,0.0,0.0,2020-04-28 14:25:46.849676
+235,Los Angeles - Sylmar,299.0,362.87,2020-04-28 14:25:46.849676
+236,Los Angeles - Tarzana,71.0,229.95,2020-04-28 14:25:46.849676
+237,Los Angeles - Temple-Beaudry,142.0,359.66,2020-04-28 14:25:46.849676
+238,Los Angeles - Thai Town,12.0,122.34,2020-04-28 14:25:46.849676
+239,Los Angeles - Toluca Lake,9.0,103.4,2020-04-28 14:25:46.849676
+240,Los Angeles - Toluca Terrace,2.0,153.14,2020-04-28 14:25:46.849676
+241,Los Angeles - Toluca Woods,3.0,161.46,2020-04-28 14:25:46.849676
+242,Los Angeles - Tujunga,63.0,226.54,2020-04-28 14:25:46.849676
+243,Los Angeles - University Hills,4.0,116.65,2020-04-28 14:25:46.849676
+244,Los Angeles - University Park,73.0,265.88,2020-04-28 14:25:46.849676
+245,Los Angeles - Valley Glen,79.0,263.19,2020-04-28 14:25:46.849676
+246,Los Angeles - Valley Village,86.0,347.9,2020-04-28 14:25:46.849676
+247,Los Angeles - Van Nuys,257.0,275.77,2020-04-28 14:25:46.849676
+248,Los Angeles - Venice,44.0,129.85,2020-04-28 14:25:46.849676
+249,Los Angeles - Vermont Knolls,51.0,296.51,2020-04-28 14:25:46.849676
+250,Los Angeles - Vermont Square,37.0,483.22,2020-04-28 14:25:46.849676
+251,Los Angeles - Vermont Vista,102.0,247.66,2020-04-28 14:25:46.849676
+252,Los Angeles - Vernon Central,164.0,315.4,2020-04-28 14:25:46.849676
+253,Los Angeles - Victoria Park,33.0,392.9,2020-04-28 14:25:46.849676
+254,Los Angeles - View Heights,7.0,189.5,2020-04-28 14:25:46.849676
+255,Los Angeles - Watts,85.0,199.18,2020-04-28 14:25:46.849676
+256,Los Angeles - Wellington Square,11.0,223.8,2020-04-28 14:25:46.849676
+257,Los Angeles - West Adams,105.0,380.02,2020-04-28 14:25:46.849676
+258,Los Angeles - West Hills,46.0,113.45,2020-04-28 14:25:46.849676
+259,Los Angeles - West Los Angeles,53.0,140.82,2020-04-28 14:25:46.849676
+260,Los Angeles - West Vernon,178.0,331.82,2020-04-28 14:25:46.849676
+261,Los Angeles - Westchester,61.0,118.21,2020-04-28 14:25:46.849676
+262,Los Angeles - Westlake,230.0,387.5,2020-04-28 14:25:46.849676
+263,Los Angeles - Westwood,45.0,83.17,2020-04-28 14:25:46.849676
+264,Los Angeles - Wholesale District,85.0,235.27,2020-04-28 14:25:46.849676
+265,Los Angeles - Wilmington,85.0,150.48,2020-04-28 14:25:46.849676
+266,Los Angeles - Wilshire Center,100.0,199.32,2020-04-28 14:25:46.849676
+267,Los Angeles - Winnetka,135.0,260.69,2020-04-28 14:25:46.849676
+268,Los Angeles - Woodland Hills,103.0,151.35,2020-04-28 14:25:46.849676
+269,Unincorporated - Acton,8.0,100.36,2020-04-28 14:25:46.849676
+270,Unincorporated - Agua Dulce,1.0,24.05,2020-04-28 14:25:46.849676
+271,Unincorporated - Altadena,66.0,151.31,2020-04-28 14:25:46.849676
+272,Unincorporated - Anaverde,1.0,66.31,2020-04-28 14:25:46.849676
+273,Unincorporated - Angeles National Forest,1.0,80.32,2020-04-28 14:25:46.849676
+274,Unincorporated - Arcadia,4.0,50.12,2020-04-28 14:25:46.849676
+275,Unincorporated - Athens-Westmont,92.0,216.77,2020-04-28 14:25:46.849676
+276,Unincorporated - Athens Village,13.0,265.47,2020-04-28 14:25:46.849676
+277,Unincorporated - Avocado Heights,13.0,191.88,2020-04-28 14:25:46.849676
+278,Unincorporated - Azusa,15.0,94.2,2020-04-28 14:25:46.849676
+279,Unincorporated - Bandini Islands,0.0,,2020-04-28 14:25:46.849676
+280,Unincorporated - Bassett,27.0,182.22,2020-04-28 14:25:46.849676
+281,Unincorporated - Bouquet Canyon,0.0,0.0,2020-04-28 14:25:46.849676
+282,Unincorporated - Bradbury,0.0,0.0,2020-04-28 14:25:46.849676
+283,Unincorporated - Canyon Country,21.0,271.74,2020-04-28 14:25:46.849676
+284,Unincorporated - Castaic,18.0,66.2,2020-04-28 14:25:46.849676
+285,Unincorporated - Cerritos,0.0,0.0,2020-04-28 14:25:46.849676
+286,Unincorporated - Charter Oak,0.0,0.0,2020-04-28 14:25:46.849676
+287,Unincorporated - Claremont,0.0,0.0,2020-04-28 14:25:46.849676
+288,Unincorporated - Covina,19.0,112.97,2020-04-28 14:25:46.849676
+289,Unincorporated - Covina (Charter Oak),13.0,98.9,2020-04-28 14:25:46.849676
+290,Unincorporated - Del Aire,7.0,159.34,2020-04-28 14:25:46.849676
+291,Unincorporated - Del Rey,0.0,0.0,2020-04-28 14:25:46.849676
+292,Unincorporated - Del Sur,2.0,82.82,2020-04-28 14:25:46.849676
+293,Unincorporated - Desert View Highlands,2.0,80.22,2020-04-28 14:25:46.849676
+294,Unincorporated - Duarte,8.0,180.67,2020-04-28 14:25:46.849676
+295,Unincorporated - East Covina,0.0,0.0,2020-04-28 14:25:46.849676
+296,Unincorporated - East La Mirada,7.0,132.28,2020-04-28 14:25:46.849676
+297,Unincorporated - East Lancaster,0.0,0.0,2020-04-28 14:25:46.849676
+298,Unincorporated - East Los Angeles,342.0,273.01,2020-04-28 14:25:46.849676
+299,Unincorporated - East Pasadena,0.0,0.0,2020-04-28 14:25:46.849676
+300,Unincorporated - East Rancho Dominguez,20.0,130.65,2020-04-28 14:25:46.849676
+301,Unincorporated - East Whittier,4.0,75.39,2020-04-28 14:25:46.849676
+302,Unincorporated - El Camino Village,7.0,79.63,2020-04-28 14:25:46.849676
+303,Unincorporated - El Monte,0.0,0.0,2020-04-28 14:25:46.849676
+304,Unincorporated - Elizabeth Lake,1.0,60.2,2020-04-28 14:25:46.849676
+305,Unincorporated - Florence-Firestone,174.0,268.91,2020-04-28 14:25:46.849676
+306,Unincorporated - Franklin Canyon,0.0,0.0,2020-04-28 14:25:46.849676
+307,Unincorporated - Glendora,1.0,151.52,2020-04-28 14:25:46.849676
+308,Unincorporated - Hacienda Heights,49.0,87.62,2020-04-28 14:25:46.849676
+309,Unincorporated - Harbor Gateway,0.0,0.0,2020-04-28 14:25:46.849676
+310,Unincorporated - Hawthorne,4.0,159.11,2020-04-28 14:25:46.849676
+311,Unincorporated - Hi Vista,0.0,0.0,2020-04-28 14:25:46.849676
+312,Unincorporated - Kagel/Lopez Canyons,1.0,70.82,2020-04-28 14:25:46.849676
+313,Unincorporated - La Crescenta-Montrose,16.0,80.8,2020-04-28 14:25:46.849676
+314,Unincorporated - La Habra Heights,0.0,0.0,2020-04-28 14:25:46.849676
+315,Unincorporated - La Rambla,6.0,289.16,2020-04-28 14:25:46.849676
+316,Unincorporated - La Verne,1.0,49.02,2020-04-28 14:25:46.849676
+317,Unincorporated - Ladera Heights,15.0,212.13,2020-04-28 14:25:46.849676
+318,Unincorporated - Lake Hughes,0.0,0.0,2020-04-28 14:25:46.849676
+319,Unincorporated - Lake Los Angeles,16.0,123.13,2020-04-28 14:25:46.849676
+320,Unincorporated - Lake Manor,3.0,182.59,2020-04-28 14:25:46.849676
+321,Unincorporated - Lakewood,0.0,0.0,2020-04-28 14:25:46.849676
+322,Unincorporated - Lennox,41.0,181.88,2020-04-28 14:25:46.849676
+323,Unincorporated - Leona Valley,1.0,57.11,2020-04-28 14:25:46.849676
+324,Unincorporated - Littlerock,4.0,99.48,2020-04-28 14:25:46.849676
+325,Unincorporated - Littlerock/Juniper Hills,1.0,77.1,2020-04-28 14:25:46.849676
+326,Unincorporated - Littlerock/Pearblossom,6.0,168.11,2020-04-28 14:25:46.849676
+327,Unincorporated - Llano,1.0,114.03,2020-04-28 14:25:46.849676
+328,Unincorporated - Lynwood,0.0,,2020-04-28 14:25:46.849676
+329,Unincorporated - Marina del Rey,11.0,116.88,2020-04-28 14:25:46.849676
+330,Unincorporated - Miracle Mile,0.0,0.0,2020-04-28 14:25:46.849676
+331,Unincorporated - Monrovia,6.0,154.6,2020-04-28 14:25:46.849676
+332,Unincorporated - Newhall,0.0,0.0,2020-04-28 14:25:46.849676
+333,Unincorporated - North Lancaster,1.0,83.47,2020-04-28 14:25:46.849676
+334,Unincorporated - North Whittier,6.0,71.77,2020-04-28 14:25:46.849676
+335,Unincorporated - Northeast San Gabriel,13.0,54.09,2020-04-28 14:25:46.849676
+336,Unincorporated - Palmdale,2.0,237.53,2020-04-28 14:25:46.849676
+337,Unincorporated - Palos Verdes Peninsula,0.0,0.0,2020-04-28 14:25:46.849676
+338,Unincorporated - Pearblossom/Llano,2.0,102.25,2020-04-28 14:25:46.849676
+339,Unincorporated - Pellissier Village,0.0,0.0,2020-04-28 14:25:46.849676
+340,Unincorporated - Placerita Canyon,0.0,0.0,2020-04-28 14:25:46.849676
+341,Unincorporated - Pomona,0.0,0.0,2020-04-28 14:25:46.849676
+342,Unincorporated - Quartz Hill,26.0,201.46,2020-04-28 14:25:46.849676
+343,Unincorporated - Rancho Dominguez,10.0,375.8,2020-04-28 14:25:46.849676
+344,Unincorporated - Roosevelt,0.0,0.0,2020-04-28 14:25:46.849676
+345,Unincorporated - Rosewood,3.0,233.28,2020-04-28 14:25:46.849676
+346,Unincorporated - Rosewood/East Gardena,0.0,0.0,2020-04-28 14:25:46.849676
+347,Unincorporated - Rosewood/West Rancho Dominguez,7.0,208.27,2020-04-28 14:25:46.849676
+348,Unincorporated - Rowland Heights,46.0,90.16,2020-04-28 14:25:46.849676
+349,Unincorporated - San Clemente Island,0.0,0.0,2020-04-28 14:25:46.849676
+350,Unincorporated - San Francisquito Canyon/Bouquet Canyon,0.0,0.0,2020-04-28 14:25:46.849676
+351,Unincorporated - San Jose Hills,19.0,93.96,2020-04-28 14:25:46.849676
+352,Unincorporated - San Pasqual,0.0,0.0,2020-04-28 14:25:46.849676
+353,Unincorporated - Sand Canyon,0.0,0.0,2020-04-28 14:25:46.849676
+354,Unincorporated - Santa Catalina Island,2.0,749.06,2020-04-28 14:25:46.849676
+355,Unincorporated - Santa Monica Mountains,13.0,69.81,2020-04-28 14:25:46.849676
+356,Unincorporated - Saugus,2.0,1290.32,2020-04-28 14:25:46.849676
+357,Unincorporated - Saugus/Canyon Country,0.0,0.0,2020-04-28 14:25:46.849676
+358,Unincorporated - South Antelope Valley,0.0,0.0,2020-04-28 14:25:46.849676
+359,Unincorporated - South Edwards,0.0,,2020-04-28 14:25:46.849676
+360,Unincorporated - South El Monte,1.0,55.71,2020-04-28 14:25:46.849676
+361,Unincorporated - South San Gabriel,8.0,90.42,2020-04-28 14:25:46.849676
+362,Unincorporated - South Whittier,63.0,106.38,2020-04-28 14:25:46.849676
+363,Unincorporated - Southeast Antelope Valley,0.0,0.0,2020-04-28 14:25:46.849676
+364,Unincorporated - Stevenson Ranch,16.0,76.31,2020-04-28 14:25:46.849676
+365,Unincorporated - Sun Village,4.0,66.27,2020-04-28 14:25:46.849676
+366,Unincorporated - Sunrise Village,1.0,77.16,2020-04-28 14:25:46.849676
+367,Unincorporated - Twin Lakes/Oat Mountain,4.0,241.25,2020-04-28 14:25:46.849676
+368,Unincorporated - Universal City,0.0,,2020-04-28 14:25:46.849676
+369,Unincorporated - Val Verde,36.0,1087.94,2020-04-28 14:25:46.849676
+370,Unincorporated - Valencia,4.0,130.21,2020-04-28 14:25:46.849676
+371,Unincorporated - Valinda,27.0,115.53,2020-04-28 14:25:46.849676
+372,Unincorporated - View Park/Windsor Hills,25.0,214.87,2020-04-28 14:25:46.849676
+373,Unincorporated - Walnut,0.0,,2020-04-28 14:25:46.849676
+374,Unincorporated - Walnut Park,41.0,253.98,2020-04-28 14:25:46.849676
+375,Unincorporated - West Antelope Valley,2.0,132.36,2020-04-28 14:25:46.849676
+376,Unincorporated - West Carson,56.0,253.55,2020-04-28 14:25:46.849676
+377,Unincorporated - West Chatsworth,0.0,0.0,2020-04-28 14:25:46.849676
+378,Unincorporated - West LA,18.0,1890.76,2020-04-28 14:25:46.849676
+379,Unincorporated - West Puente Valley,15.0,152.52,2020-04-28 14:25:46.849676
+380,Unincorporated - West Rancho Dominguez,2.0,147.17,2020-04-28 14:25:46.849676
+381,Unincorporated - West Whittier/Los Nietos,31.0,115.13,2020-04-28 14:25:46.849676
+382,Unincorporated - Westfield/Academy Hills,0.0,0.0,2020-04-28 14:25:46.849676
+383,Unincorporated - Westhills,0.0,0.0,2020-04-28 14:25:46.849676
+384,Unincorporated - White Fence Farms,2.0,54.3,2020-04-28 14:25:46.849676
+385,Unincorporated - Whittier,4.0,105.71,2020-04-28 14:25:46.849676
+386,Unincorporated - Whittier Narrows,0.0,0.0,2020-04-28 14:25:46.849676
+387,Unincorporated - Willowbrook,42.0,120.3,2020-04-28 14:25:46.849676
+388,Unincorporated - Wiseburn,5.0,82.96,2020-04-28 14:25:46.849676
+389,- Under Investigation,1314.0,,2020-04-28 14:25:46.849676
